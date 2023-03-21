@@ -9,7 +9,7 @@
      - Vue
      - tailwind CSS
 
-- :bulb: I’m currently learning ** OOP, Python, Java, .NET **
+- :bulb: I’m currently learning **OOP, Python, Java, .NET**
 
 <!-- - 👯 I’m looking to collaborate on [Alpyiago Premium E-Commerce PWA](https://alphyiago.web.app/) -->
 
@@ -20,7 +20,11 @@
 
 - 📫 How to reach me **techmanifestsa@gmail.com, https://profound-sunshine-b69994.netlify.app/**
 
-- ⚡ Fun fact ** {code} it's fun. **
+- ⚡ Fun fact **{code} it's fun.**
+
+## Feedback
+
+If you have any feedback, please reach out at techmanifestsa@gmail.com
 
 <hr/>
 <h3 align="center">Design and Development Tools</h4>
