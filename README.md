@@ -1,19 +1,26 @@
 <h1 align="center">Hi 👋, Welcome to Tech Manifest</h1>
-<h3 align="center">Playgrounds for the Most Ardent and Consistent Developers 💻📲</h3>
+<h3 align="center">Playground for the Most Ardent and Consistent Developers 💻📲</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitwonderboy&label=Profile%20views&color=0e75b6&style=flat" alt="gitwonderboy" /> </p>
 
-- 🔭 I’m currently working on [Sea View Primary School PWA](https://seaviewprimarysite.web.app/)
+- 🌱 I’m currently working on [TECH MANIFEST PORTFOLIO](https://profound-sunshine-b69994.netlify.app/)
+     - Yarn
+     - Vite
+     - Vue
+     - tailwind CSS
 
-- 🌱 I’m currently learning **OOP, Python, Java**
+- :bulb: I’m currently learning ** OOP, Python, Java, .NET **
 
-- 👯 I’m looking to collaborate on [Alpyiago Premium E-Commerce PWA](https://alphyiago.web.app/)
+<!-- - 👯 I’m looking to collaborate on [Alpyiago Premium E-Commerce PWA](https://alphyiago.web.app/) -->
 
-- 💬 Ask me about **HTML/HTML5, CSS/CSS3, JS, Vue/Nuxt, Vuetify, Bootstrap, PHP**
+- 💬 Ask me about:
+    - ** Fron-End ** ** HTML/HTML5, CSS/CSS3, JS, Vue/Nuxt, Vuetify, Bootstrap, PHP **
+    - ** Back-End ** ** JavaScript(Node.js, Express.js), Python(FastAPI), Java(Spring, Javalin), PHP **
+    - ** Native Mobile / Desktop Application ** ** NativeScript, TAURI , Flutter, Ionic, .NET MAUI **
 
 - 📫 How to reach me **techmanifestsa@gmail.com**
 
-- ⚡ Fun fact **{code} it's fun.**
+- ⚡ Fun fact ** {code} it's fun. **
 
 <hr/>
 <h3 align="center">Design and Development Tools</h4>
