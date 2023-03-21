@@ -18,7 +18,7 @@
     - **Back-End** > **JavaScript(Node.js, Express.js), Python(FastAPI), Java(Spring, Javalin), PHP**
     - **Native Mobile / Desktop Application** > **NativeScript, TAURI , Flutter, Ionic, .NET MAUI**
 
-- 📫 How to reach me **techmanifestsa@gmail.com, [visit website](https://profound-sunshine-b69994.netlify.app/)**
+- 📫 How to reach me **techmanifestsa@gmail.com, [check out our website](https://profound-sunshine-b69994.netlify.app/)**
 
 - ⚡ Fun fact **{code} it's fun.**
 
