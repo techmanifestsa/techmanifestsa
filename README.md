@@ -14,11 +14,11 @@
 <!-- - 👯 I’m looking to collaborate on [Alpyiago Premium E-Commerce PWA](https://alphyiago.web.app/) -->
 
 - 💬 Ask me about:
-    - ** Fron-End ** ** HTML/HTML5, CSS/CSS3, JS, Vue/Nuxt, Vuetify, Bootstrap, PHP **
-    - ** Back-End ** ** JavaScript(Node.js, Express.js), Python(FastAPI), Java(Spring, Javalin), PHP **
-    - ** Native Mobile / Desktop Application ** ** NativeScript, TAURI , Flutter, Ionic, .NET MAUI **
+    - **Fron-End** > **HTML/HTML5, CSS/CSS3, JS, Vue/Nuxt, Vuetify, Bootstrap, PHP**
+    - **Back-End** > **JavaScript(Node.js, Express.js), Python(FastAPI), Java(Spring, Javalin), PHP**
+    - **Native Mobile / Desktop Application** > **NativeScript, TAURI , Flutter, Ionic, .NET MAUI**
 
-- 📫 How to reach me **techmanifestsa@gmail.com**
+- 📫 How to reach me **techmanifestsa@gmail.com, https://profound-sunshine-b69994.netlify.app/**
 
 - ⚡ Fun fact ** {code} it's fun. **
 
