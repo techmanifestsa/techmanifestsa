@@ -24,10 +24,10 @@
 
 ## 🛠 Live Projects
 
-     - https://profound-sunshine-b69994.netlify.app/
-     - https://playful-torte-2f8c18.netlify.app/
-     - https://jazzy-semolina-0df04b.netlify.app/
-     - https://seaviewprimarysite.web.app/
+   - [Tech Manifest Potfolio](https://profound-sunshine-b69994.netlify.app/)
+   - [Brew Bro's Cafe](https://playful-torte-2f8c18.netlify.app/)
+   - [Connie Ndlovu Attorneys Inc.](https://jazzy-semolina-0df04b.netlify.app/)
+   - [Sea Vioew Primary School](https://seaviewprimarysite.web.app/)
 
 ## Feedback
 
