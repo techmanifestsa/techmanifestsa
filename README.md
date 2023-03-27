@@ -12,7 +12,7 @@
 - :bulb: I’m currently learning **OOP, Python, Java, .NET**
 
 <!-- - 👯 I’m looking to collaborate on [Alpyiago Premium E-Commerce PWA](https://alphyiago.web.app/) -->
-- 👯 Personal Repo. on [Tech Manifest](https://github.com/gitwonderboy)
+- 👯 Personal Repo. on [Git Wonderboy](https://github.com/gitwonderboy)
 
 - 💬 Ask me about:
     - **Fron-End** > **HTML/HTML5, CSS/CSS3, JS, Vue/Nuxt, Vuetify, Bootstrap, PHP**
