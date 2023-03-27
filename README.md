@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitwonderboy&label=Profile%20views&color=0e75b6&style=flat" alt="gitwonderboy" /> </p>
 
-- 🌱 I’m currently working on [TECH MANIFEST PORTFOLIO](https://profound-sunshine-b69994.netlify.app/)
+- 🌱 I’m currently working on [TECH MANIFEST PORTFOLIO](https://https://techmanifest.co.za/)
      - Yarn
      - Vite
      - Vue
@@ -12,6 +12,7 @@
 - :bulb: I’m currently learning **OOP, Python, Java, .NET**
 
 <!-- - 👯 I’m looking to collaborate on [Alpyiago Premium E-Commerce PWA](https://alphyiago.web.app/) -->
+- 👯 Personal Repo. on [Tech Manifest](https://github.com/gitwonderboy)
 
 - 💬 Ask me about:
     - **Fron-End** > **HTML/HTML5, CSS/CSS3, JS, Vue/Nuxt, Vuetify, Bootstrap, PHP**
@@ -24,7 +25,7 @@
 
 ## 🛠 Live Projects
 
-   - [Tech Manifest Potfolio](https://profound-sunshine-b69994.netlify.app/)
+   - [Tech Manifest Potfolio](https://https://techmanifest.co.za/)
    - [Brew Bro's Cafe](https://playful-torte-2f8c18.netlify.app/)
    - [Brew Brother's Cafe TM](https://brewbrotherscafe.co.za/)
    - [Connie Ndlovu Attorneys Inc.](https://jazzy-semolina-0df04b.netlify.app/)
