@@ -26,6 +26,7 @@
 
    - [Tech Manifest Potfolio](https://profound-sunshine-b69994.netlify.app/)
    - [Brew Bro's Cafe](https://playful-torte-2f8c18.netlify.app/)
+   - [Brew Brother's Cafe TM](brewbrotherscafe.co.za/)
    - [Connie Ndlovu Attorneys Inc.](https://jazzy-semolina-0df04b.netlify.app/)
    - [Sea Vioew Primary School](https://seaviewprimarysite.web.app/)
 
